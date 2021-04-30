@@ -17,5 +17,5 @@ pub fn run() {
 
     // assign multiple variables
     let (hobby, when) = ("football", "weekends");
-    println!("I like to play {} on {}", hobby, when)
+    println!("I like to play {} on {}", hobby, when);
 }
