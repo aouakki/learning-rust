@@ -12,6 +12,6 @@ pub fn show() {
     println!("I like to play {sport}", sport = "football");
 
     //Placehoder traints, specifying the type
-    println!("Binary {:b}, Hex: {:X}, Decimal:{:o}",100,100,100)
+    println!("Binary {:b}, Hex: {:X}, Decimal:{:o}",100,100,100);
 
 }

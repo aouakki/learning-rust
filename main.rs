@@ -1,5 +1,6 @@
-mod print;
+mod vars;
 
-fn main(){
-    print::show();
+fn main() {
+    //print::show();
+    vars::run()
 }
